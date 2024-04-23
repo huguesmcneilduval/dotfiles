@@ -16,3 +16,7 @@
     exact = true
     stripComponents = 1
     refreshPeriod = "168h"
+[".oh-my-zsh/custom/plugins/developer-tools"]
+    type = "git-repo"
+    url = "git@github.com:duvalhub/developer-tools"
+    refreshPeriod = "168h"

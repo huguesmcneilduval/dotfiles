@@ -32,7 +32,7 @@ ENABLE_CORRECTION="true"
 # much, much faster.
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 
-plugins=(git zsh-syntax-highlighting developer-tools)
+plugins=(git zsh-syntax-highlighting developer-tools nvm aws)
 
 source $ZSH/oh-my-zsh.sh
 
